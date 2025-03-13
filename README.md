@@ -26,7 +26,7 @@ The Caesar Cipher is one of the simplest and most widely-known encryption techni
 
 2. Run the application:
    ```bash
-   python Caesar-Cipher.py
+   python Caesar_Cipher.py
    ```
 
 ### Basic Usage
